@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Cool App",
+    "description": "A web app that does something amazing.",
+    "link": "https://example.com"
+  },
+  {
+    "title": "Portfolio",
+    "description": "This website you're looking at!",
+    "link": "https://github.com/yourname/portfolio"
+  }
+]
